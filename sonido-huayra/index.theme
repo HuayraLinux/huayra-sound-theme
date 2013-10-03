@@ -1,0 +1,6 @@
+[Sound Theme]
+Name=Sonido Huayra
+Directories=stereo
+
+[stereo]
+OutputProfile=stereo
