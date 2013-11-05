@@ -11,5 +11,5 @@ Package: huayra-sound-theme
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Tema de sonidos de Huayra
- Este paquete contiene un un tema de sonidos para el escritorio de
+ Este paquete contiene un tema de sonidos para el escritorio de
  Huayra.
