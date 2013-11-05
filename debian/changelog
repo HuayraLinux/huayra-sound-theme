@@ -1,3 +1,9 @@
+huayra-sound-theme (1.1) unstable; urgency=low
+
+  * fix typo
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Tue, 05 Nov 2013 12:22:20 -0300
+
 huayra-sound-theme (1.0) unstable; urgency=low
 
   * Version inicial
