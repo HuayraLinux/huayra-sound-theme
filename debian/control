@@ -1,0 +1,15 @@
+Source: huayra-sound-theme
+Section: sound
+Priority: extra
+Maintainer: Fernando Toledo <ragnarok@docksud.com.ar>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Vcs-Git: git://github.com/HuayraLinux/huayra-sound-theme.git
+Vcs-Browser: https://github.com/HuayraLinux/huayra-sound-theme
+
+Package: huayra-sound-theme
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Tema de sonidos de Huayra
+ Este paquete contiene un un tema de sonidos para el escritorio de
+ Huayra.
