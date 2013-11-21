@@ -1,3 +1,9 @@
+huayra-sound-theme (1.2) unstable; urgency=low
+
+  * architecture all
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Thu, 21 Nov 2013 11:03:06 -0300
+
 huayra-sound-theme (1.1) unstable; urgency=low
 
   * fix typo

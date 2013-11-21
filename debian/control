@@ -8,7 +8,7 @@ Vcs-Git: git://github.com/HuayraLinux/huayra-sound-theme.git
 Vcs-Browser: https://github.com/HuayraLinux/huayra-sound-theme
 
 Package: huayra-sound-theme
-Architecture: any
+Architecture: all
 Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: Tema de sonidos de Huayra
  Este paquete contiene un tema de sonidos para el escritorio de
